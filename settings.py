@@ -1,0 +1,3 @@
+TOKEN = ''
+ADMINS = []
+GROUP_ID =
